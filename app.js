@@ -12,3 +12,4 @@ menoresADiez ? console.log(menoresADiez) : null
 console.log(numeros);
 
 console.log(menoresADiez)
+console.log(masCinco)
