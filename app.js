@@ -13,3 +13,4 @@ console.log(numeros);
 
 console.log(menoresADiez)
 
+console.log("hola")
